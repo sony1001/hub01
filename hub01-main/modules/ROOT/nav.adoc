@@ -1,0 +1,3 @@
+* xref:/intoduction.adoc[Introduction]
+
+** xref: edge/hardware.adoc[Hardware]

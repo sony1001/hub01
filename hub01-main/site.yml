@@ -1,0 +1,15 @@
+site:
+  title: Antora Test title
+
+  url:sony1001.github.io
+  start_page: antoratest::introduction.adoc
+
+  content:
+    - url: https://github.com/fabianfnc.bocs.git
+      branches: 'master'
+      start_path: doc
+
+  ui:
+    bundles:
+      url: https://github.com/fabianfnc/bocs/blob/master/doc/uibundle.zip?raw=true
+      snapshot:true

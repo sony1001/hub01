@@ -1,0 +1,6 @@
+name: antoratest
+title: Antora Test tiltle
+version: latest
+start_page: ROOT:intoduction.adoc
+nav:
+  - modules/ROOT/nav.adoc
